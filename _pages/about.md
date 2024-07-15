@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Zhongrui Wang](https://scholar.googl
 
 You can find my CV here: [CV](../assets/resumed024.pdf).
 
-[Email](u3009724@connect.hku.hk) /* [Github](https://github.com/QiuDi233) *//* [Wechat](../images/wechat.jpg) */
+[Email](u3009724@connect.hku.hk)
 
 A data-driven personal website
 ======

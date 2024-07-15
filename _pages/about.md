@@ -11,7 +11,7 @@ I'm a Mphil student from [Department of Electrical and Electronic Engineering](h
 
 I am very fortunate to be advised by [Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en&oi=ao) and [Prof. Xiaojuan Qi](https://xjqi.github.io/) from [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/), University of Hong Kong.
 
-You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [CV](../assets/Resumed024.pdf).
 
 [Email](u3009724@connect.hku.hk) /* [Github](https://github.com/QiuDi233) *//* [Wechat](../images/wechat.jpg) */
 

@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yue Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Passionate and hard‐working student with natural leadership, organizational, and people skills. I am an inspired, optimistic team leader and role player who will be tenacious and proactive to bring more success to your organization."
+  bio              : #"Passionate and hard‐working student with natural leadership, organizational, and people skills. I am an inspired, optimistic team leader and role player who will be tenacious and proactive to bring more success to your organization."
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
